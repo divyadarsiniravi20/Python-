@@ -1,0 +1,21 @@
+
+    List of students
+    Name=Preeti
+    Timestamp=5
+    Status=Present
+    
+    List of students
+    Name=Resh
+    Timestamp=9
+    Status=Present
+    
+    List of students
+    Name=Preeti
+    Timestamp=5
+    Status=Not Present
+    
+    List of students
+    Name=Resh
+    Timestamp=9
+    Status=Present
+    

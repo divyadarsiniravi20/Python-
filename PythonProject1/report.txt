@@ -1,0 +1,13 @@
+
+    Name=oiii
+    Amount=300
+    
+    Name=Kiru
+    Amount=100
+    
+    Name=jii
+    Amount=200
+    
+    Name=oiii
+    Amount=300
+    

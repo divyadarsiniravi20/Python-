@@ -1,0 +1,17 @@
+
+    Item=Biscuit
+    Quantity=1
+    Price=9000
+    
+    Item=cofee
+    Quantity=2
+    Price=100
+    
+    Item=Biscuit
+    Quantity=1
+    Price=9000
+    
+    Item=cofee
+    Quantity=2
+    Price=100
+    

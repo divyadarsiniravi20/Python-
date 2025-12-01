@@ -1,0 +1,6 @@
+
+    Employee Record
+    ID: 101
+    Name: Aman
+    Salary: 75000
+    

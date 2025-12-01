@@ -1,0 +1,6 @@
+we are learning file
+With the help of python
+Today is day 3
+The previous topic is inheritance
+It has parent and child classes
+this is a append line
